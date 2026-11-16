@@ -2,11 +2,12 @@
 #include <stdlib.h>
 
 int main(){ 
-
-int aux1,aux2,contador;
-    contador=0;
-
+    int aux1,aux2,contador;
+            contador=0;
+    
     while (contador!=tamanho);
+        int aux1,aux2,contador;
+            contador=0;
     {
         Aux1=var[contador];
         Aux2=var[contador+1];
@@ -18,4 +19,4 @@ int aux1,aux2,contador;
    }       
 
 
-}       
+}      
